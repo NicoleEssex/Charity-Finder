@@ -1,3 +1,6 @@
-This is a charity searching application created with a group of 4 people. This application will allow the user to search for charitable causes according to their interests. There are multiple ways to search, including, keyword, category, and/or location. Once the inital search is entered the results will popluate with a few key details about each one displayed. You are able to click on any of the results and the google map api will change to the location of the charity selected as well as more details about that specific charity and a link to donate dirctly to the charity through the charity api.
-We divided to work so that two people were responsible for the javascript and two people were responsible for the html and css.
-I was responsilbe for the html and css. I utilized Patternfly to create the modal linked to the Jarvis Environmental Group in the header. The email link will open the user's email application to compose an email to jarviseg@gmail.com and auto fill the subject line to say "Charity". There is also a link to the IRS's current tax information regarding the forms you need to deduct your charitable contributions. I used Bootstrap for the styling. 
+JEG will locate charities based on your interest, on location, or both. Not only can you find and see a rating for immediately you will also be able to read more about them, donate to them, and get current tax related material.
+
+Below are some screen shots walking you through the application.
+
+
+
